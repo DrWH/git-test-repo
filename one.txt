@@ -1,5 +1,5 @@
-to deploy
-to push
+TO DEPLOY
+TO PUSH
 not done
 finished
 reset
