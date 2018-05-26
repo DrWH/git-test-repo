@@ -4,3 +4,4 @@ not done
 finished
 reset
 something else
+newlastline
