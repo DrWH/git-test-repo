@@ -1,10 +1,3 @@
-TO DEPLOY
-TO PUSH
-not done
+to deploy
+to push
 finished
-reset
-something else
-created a new branch
-worked with git log and grep for findinf changes
-we deleted branch and recovered using git reflog
-we checkout to master and then merged remember
