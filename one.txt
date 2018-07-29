@@ -7,3 +7,5 @@ something else
 newlastline
 created a new branch
 worked with git log and grep for findinf changes
+we deleted branch and recovered using git reflog
+we checkout to master and then merged remember
