@@ -1,3 +1,3 @@
 <?php
-what next
+echo "Node traing and then adventure game"
 ?>
